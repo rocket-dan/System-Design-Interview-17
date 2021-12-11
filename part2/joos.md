@@ -7,12 +7,13 @@
 
 ## 데이터 볼륨
 - 데이터 볼륨의 단위를 2의 제곱수로 표현
-(/images/data_volumn.png)
+![data_volumn](/images/data_volumn.png)
 
 
 ## 응답지연 값
 - 완전 정확하지는 않지만 짐작하는 것에는 굿!
-(/images/high_availability.png)
+![high_availability](/images/high_availability.png)
+
 이걸 보면  
 - 메모리는 빠르지만 디스큰 아직 느리다.
 - 디스크 탐색은 가능한 피하라!
@@ -24,7 +25,8 @@
 ## 가용성 수치
 - 고가용성
     - 시스템이 오랜 시간 동안 지속적으로 중단 없이 운영될 수 있는 능력
-(/images/response_delay.png)
+![response_delay](/images/response_delay.png)
+
 - 가용률에 붙은 9의 경우 관습적 숫자
     - 9가 많으면 많을수록 좋다고 본다.
     - 0의 개수와 시스템 장애시간 사이의 관계

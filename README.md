@@ -9,10 +9,11 @@ Study history of System Design Interview
 
 
 # Schedule
-Every Sat 8PM KST (CET 12PM)
+Every Sat 9PM KST (CET 1PM)
 
 
 ## History
 |Date|Content|Done|Speaker|
 |----|-------|----|-------|
-|2021.12.04|1장 사용자 수에 따른 규모 확장성|☑️|joos|
+|2021.12.04|1장 사용자 수에 따른 규모 확장성|✅|joos|
+|2021.12.18|1장 사용자 수에 따른 규모 확장성|✅|joos|

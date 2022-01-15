@@ -35,10 +35,10 @@
     - ex) 클라이언트(모바일/웹), API, 웹 서버, DB, cache, CDN, 메시지 큐
 - 최초 설계안이 시스템 규모에 관계된 제약사항을 만족하는지 개략적으로 계산
     - 소리 내어 설명/ 구체적 사용사례 살피기 => edge case 잡는데 도움이 된다.
-    - 이 단계에서 API endpoint, database schema 를 그려야할까?
-          - 면접관에 의견을 물어보자
-          - 큰 규모의 설계라면 너무 세부적(like 구글 검색 엔진)
-          - 간단한 백엔드 설계면 good(like 포커 게임의 백엔드)
+    - 이 단계에서 API endpoint, database schema 를 그려야할까?    
+        - 면접관에 의견을 물어보자. 
+        - 큰 규모의 설계라면 너무 세부적(like 구글 검색 엔진). 
+        - 간단한 백엔드 설계면 good(like 포커 게임의 백엔드). 
 
 ![2_grade](/part3/images/2grade.png)
 

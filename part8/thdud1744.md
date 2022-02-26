@@ -8,20 +8,25 @@ TIP: 시스템 설계 면접 문제는 의도적으로 어떤 정해진 결말�
 e.g.
 
 Q: 어떻게 동작하는지 예제 보여줘
+
 A: `https://www.systeminterview.com/q=chatsystem&c=loggedin&v=v3&l=long` 이런
 입력이 주어졌을 때 이 서비스는 `https://tinyurl.com/y7ke-ocwj` 같은 단축 url을
 제공해야 한다.
 
 Q: 트래픽 규모는 어느 정도?
+
 A: 매일 1억개 (100M)의 단축 url 생성 가능해야
 
 Q: 단축 url의 길이는 어느 정도?
+
 A: 짧으면 짧을수록 좋다.
 
 Q: 단축 url에 포함될 문자에 제한이 있나?
+
 A: 0-9, a-z, A-Z
 
 Q: 단축 url을 시스템에서 지우거나 갱신할 수 있나?
+
 A: 노노
 
 이 시스템의 기본적 기능은:
